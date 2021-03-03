@@ -8,6 +8,7 @@
 </head>
 <body>
   <h1>First title </h1>
+  <h2> Second title </h2>
 <p> j'aime la vie </p>
 </body>
 </html>
