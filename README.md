@@ -7,6 +7,7 @@
 <script src="script.js"></script>
 </head>
 <body>
+  <h1>First title </h1>
 <p> j'aime la vie </p>
 </body>
 </html>
