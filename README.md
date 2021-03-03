@@ -2,7 +2,7 @@
 <html lang="fr">
 <head>
 <meta charset="utf-8">
-<title> Mon Titre </title>
+<title> Mon nouveau titre </title>
 <link rel="stylesheet" href="style.css">
 <script src="script.js"></script>
 </head>
